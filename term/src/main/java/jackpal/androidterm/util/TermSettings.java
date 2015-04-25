@@ -17,6 +17,8 @@
 package jackpal.androidterm.util;
 
 import jackpal.androidterm.R;
+import jackpal.androidterm.compat.AndroidCompat;
+
 import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.view.KeyEvent;
